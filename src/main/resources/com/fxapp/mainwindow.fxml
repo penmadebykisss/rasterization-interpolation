@@ -18,9 +18,9 @@
    <TextField fx:id="yField" layoutX="638.0" layoutY="41.0" prefHeight="25.0" prefWidth="45.0" />
    <TextField fx:id="aField" layoutX="689.0" layoutY="41.0" prefHeight="25.0" prefWidth="45.0" />
    <TextField fx:id="bField" layoutX="740.0" layoutY="41.0" prefHeight="25.0" prefWidth="45.0" />
-   <Button fx:id="rastButton" layoutX="737.0" layoutY="75.0" mnemonicParsing="false" text="Button" />
+   <Button fx:id="rastButton" layoutX="737.0" layoutY="75.0" mnemonicParsing="false" text="Растеризация" />
    <ComboBox fx:id="metodComboBox" layoutX="587.0" layoutY="75.0" prefHeight="25.0" prefWidth="135.0" promptText="" />
    <ColorPicker fx:id="startColorPicker" layoutX="592.0" layoutY="269.0" prefHeight="25.0" prefWidth="81.0" />
    <ColorPicker fx:id="endColorPicker" layoutX="682.0" layoutY="269.0" prefHeight="25.0" prefWidth="81.0" />
-   <Button fx:id="interpolateButton" layoutX="592.0" layoutY="307.0" mnemonicParsing="false" text="Button" />
+   <Button fx:id="interpolateButton" layoutX="592.0" layoutY="307.0" mnemonicParsing="false" text="Интерполяция" />
 </AnchorPane>
